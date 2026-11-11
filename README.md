@@ -46,8 +46,8 @@ The project follows two complementary perspectives:
 
 | Lab | Directory | Description | Status |
 | --- | --------- | ------------|--------|
-| 01 | [Lab-01-Windows-Server-and-AD-DS-Deployment](https://github.com/te7mina1/Enterprise-Active-Directory-Environment/tree/main/Lab-01-Windows-Server-and-AD-DS-Deployment) | Windows Server setup, AD DS installation, domain promotion, and DNS | Completed |
-| 02 | [Lab-02-Domain-Objects-and-Client-Integration](https://github.com/te7mina1/Enterprise-Active-Directory-Environment/tree/main/Lab-02-Domain-Objects-and-Client-Integration) | OUs, users, groups, and Windows client domain joining | Completed |
+| 01 | Lab-01-Windows-Server-and-AD-DS-Deployment | Windows Server setup, AD DS installation, domain promotion, and DNS | [Completed](./Lab-01-Windows-Server-and-AD-DS-Deployment) |
+| 02 | Lab-02-Domain-Objects-and-Client-Integration | OUs, users, groups, and Windows client domain joining | [Completed](./Lab-02-Domain-Objects-and-Client-Integration) |
 | 03 | Lab-04-Group-Policy-and-Security-Configuration | Group Policy configuration and security-baseline experiments | Completed |
 | 04 | Lab-05-Service-Accounts-and-SPN-Experiments | Service identities and Service Principal Name exercises | Completed |
 | 05 | Upcoming | - | - |
