@@ -50,7 +50,7 @@ This lab documents the evidenced deployment of a Windows Server domain controlle
 
 ## Screenshots
 
-The relevant Windows Server, AD DS, domain promotion, and DNS evidence images are included in [Lab-01-Windows-Server-and-AD-DS-Deployment-Lab-Shots](Lab-01-Windows-Server-and-AD-DS-Deployment/Lab-Shots)
+The relevant Windows Server, AD DS, domain promotion, and DNS evidence images are included in [Lab-01-Windows-Server-and-AD-DS-Deployment-Lab-Shots](https://github.com/te7mina1/Enterprise-Active-Directory-Environment/tree/main/Lab-01-Windows-Server-and-AD-DS-Deployment/Lab-Shots)
 
 ## Lessons Learned
 
