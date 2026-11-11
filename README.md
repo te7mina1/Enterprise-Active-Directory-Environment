@@ -117,7 +117,7 @@ Future work will expand the environment into a practical Red Team and Blue Team 
 
 **te7mina1**
 
-Cybersecurity Student | SOC Analyst | Systems Administrator | Ethical Hacker
+Cybersecurity Student | Systems Administrator (Windows) | Active Directory
 
 ---
 Building, testing, understanding, and securing enterprise Active Directory environments through hands-on cybersecurity practice.
