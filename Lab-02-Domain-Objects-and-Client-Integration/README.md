@@ -45,7 +45,7 @@ This lab documents the creation and organization of sample Active Directory orga
 
 ## Screenshots
 
-Only images corresponding to domain objects, OU/group organization, Windows client domain joining, and domain sign-in are included below.
+Only images corresponding to domain objects, OU/group organization, Windows client domain joining, and domain sign-in are included below in [Lab-02-Domain-Objects-and-Client-Integration-Lab-Shots](./Lab-Shots)
 
 ## Lessons Learned
 
