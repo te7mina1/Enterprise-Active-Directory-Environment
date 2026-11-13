@@ -1,4 +1,7 @@
+<!---<img width="1536" height="1024" alt="AllSafe Blue Tech Logo" src="https://github.com/user-attachments/assets/ed0e763a-bbc8-4a37-ad08-b30bc4a9494e" />--->
+
 # Enterprise-Active-Directory-Environment
+
 
 <!---
 ![Project Status](https://img.shields.io/badge/Project-In_Progress-orange?style=for-the-badge)
