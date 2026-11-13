@@ -1,5 +1,13 @@
 # Enterprise-Active-Directory-Environment
 
+<!---
+![Project Status](https://img.shields.io/badge/Project-In_Progress-orange?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows_Server-blue?style=for-the-badge&logo=windows)
+![Virtualization](https://img.shields.io/badge/Virtualization-VirtualBox-183A61?style=for-the-badge&logo=virtualbox)
+![Domain](https://img.shields.io/badge/Active_Directory-allsafe.local-0078D4?style=for-the-badge&logo=microsoft)
+![Security](https://img.shields.io/badge/Focus-Blue_Team_%7C_Red_Team-red?style=for-the-badge)
+--->
+
 ## Overview
 
 This repository documents my hands-on journey building and expanding an Enterprise Active Directory environment using Oracle VirtualBox, Windows Server, Windows 11, and Kali Linux.
