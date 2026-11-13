@@ -47,7 +47,7 @@ This lab documents an SPN registration and lookup exercise involving the lab acc
 
 ## Screenshots
 
-Only the two images corresponding to the SPN registration and domain SPN lookup are included below.
+Only the two images corresponding to the SPN registration and domain SPN lookup are included in [Lab-04-Service-Accounts-and-SPN-Experiments-Lab-Shots](./Lab-Shots)
 
 ## Lessons Learned
 
