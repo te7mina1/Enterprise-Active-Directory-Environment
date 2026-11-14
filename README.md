@@ -61,7 +61,8 @@ The project follows two complementary perspectives:
 | 02 | Lab-02-Domain-Objects-and-Client-Integration | OUs, users, groups, and Windows client domain joining | [Completed](./Lab-02-Domain-Objects-and-Client-Integration) |
 | 03 | Lab-03-Group-Policy-and-Security-Configuration | Group Policy configuration and security-baseline experiments | [Completed](./Lab-03-Group-Policy-and-Security-Configuration) |
 | 04 | Lab-04-Service-Accounts-and-SPN-Experiments | Service identities and Service Principal Name exercises | [Completed](./Lab-04-Service-Accounts-and-SPN-Experiments) |
-| 05 | Upcoming | - | - |
+| 05 | Lab-05-Ticket-001-New-Employee-Setup | Create a new employee `Sarah Johnson` to join the Finance Department | [Completed](./Lab-05-Ticket-001-New-Employee-Setup) |
+| 06 | Upcoming | - | - |
 
 ---
 ## Technologies and Tools
