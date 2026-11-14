@@ -1,4 +1,7 @@
-# Active Directory User Onboarding --- Sarah Johnson
+# Active Directory User Onboarding - Sarah Johnson
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/10c8fb76-5333-4573-9c61-6cc0c6d12ecf" />
+
 
 <!---
 ![Platform](https://img.shields.io/badge/Platform-Windows%20Server-0078D4?style=for-the-badge&logo=windows)
@@ -27,58 +30,30 @@ PowerShell.
 
 ## Ticket details
 
-  ----------------------------------------------------------------------------------------
-  Field                               Value
-  ----------------------------------- ----------------------------------------------------
-  Ticket ID                           `AS-ONB-001`
-
-  Category                            Service Request --- User Provisioning
-
-  Request                             Create a new employee domain account and grant
-                                      Finance group membership
-
-  Employee                            Sarah Johnson
-
-  Department                          Finance
-
-  Requested OU                        `OU=Finance-Department,OU=USA,DC=allsafe,DC=local`
-
-  Account                             `sarah.johnson`
-
-  User Principal Name                 `sarah.johnson@allsafe.local`
-
-  Security group                      `Finance-Security`
-
-  Priority                            Normal
-
-  Status                              Completed
-
-  Requester                           Not recorded
-
-  Date                                13 November 2026
-  ----------------------------------------------------------------------------------------
+| Field | Value |
+| ------| ------|
+| Ticket ID | `AS-ONB-001` |
+| Category | Service Request - User Provisioning |
+| Request | Create a new employee domain account and grant <br> Finance group membership
+| Employee | Sarah Johnson |
+| Department | Finance |
+| Account | `sarah.johnson` |
+| Security group | `Finance-Security` |
+| Priority | Normal |
+| Status | Completed |
+| Requester | Not recorded |
+| Date | 13 November 2026 |
 
 ## Environment
 
-  -----------------------------------------------------------------------
-  Component                           Configuration
-  ----------------------------------- -----------------------------------
-  Active Directory domain             `allsafe.local`
-
-  Domain controller                   `AllSafeCS-DC01`
-
-  Domain controller IP                `192.168.56.10`
-
-  Client                              Windows 11 VM (`Domain-Client11`)
-
-  Hypervisor                          Oracle VirtualBox
-
-  Administration tools                ADUC, Active Directory PowerShell
-                                      module, Windows Command Prompt
-
-  Network                             Isolated VirtualBox host-only lab
-                                      network
-  -----------------------------------------------------------------------
+| Component | Configuration |
+| ----------| ------------- |
+| Active Directory domain | `allsafe.local` |
+| Domain controller | `AllSafeCS-DC01` |
+| Domain controller IP | `192.168.56.10` |
+| Client | Windows 11 VM (`Domain-Client11`) |
+| Administration tools | ADUC, Active Directory PowerShell module |
+| Network | Isolated VirtualBox host-only lab network |
 
 ## Work performed
 
@@ -163,22 +138,22 @@ marking a real-world request fully closed.
 
 ## Evidence
 
-Save the screenshots in this repository under `Lab-Shots/` using the
-filenames below. The report includes the original screenshots supplied
+Screenshots are saved in the [Lab-Shots](./Lab-Shots) directory using the
+filenames below. The [Report](./Ticket-001-New-Employee-Setup-Report.pdf) includes the original screenshots supplied
 for this exercise.
 
-  Suggested filename                    Evidence
-  ------------------------------------- ------------------------------------
-  `01-user-creation.png`                New user creation confirmation
-  `02-group-members.png`                Finance-Security group membership
-  `03-select-user.png`                  User selection dialog
-  `04-add-user-to-group.png`            Selected user for group membership
-  `05-membership-confirmed.png`         Sarah listed in Finance-Security
-  `06-powershell-ad-verification.png`   Get-ADUser verification
-  `07-user-member-of.png`               User's Member Of tab
-  `08-domain-sign-in.png`               Domain sign-in screen
-  `09-whoami-domain-identity.png`       whoami result
-  `10-windows-account-info.png`         Windows account information
+  | Suggested filename | Evidence |
+  | -------------------| ---------|
+  |`01-user-creation.png`       |         New user creation confirmation |
+  |`02-group-members.png`       |         Finance-Security group membership |
+  |`03-select-user.png`         |         User selection dialog |
+  |`04-add-user-to-group.png`   |         Selected user for group membership |
+  |`05-membership-confirmed.png` |         Sarah listed in Finance-Security |
+  |`06-powershell-ad-verification.png` |   Get-ADUser verification |
+  |`07-user-member-of.png` |               User's Member Of tab |
+  |`08-domain-sign-in.png` |              Domain sign-in screen |
+  |`09-whoami-domain-identity.png` |       whoami result |
+  |`10-windows-account-info.png` |         Windows account information |
 
 ## Skills demonstrated
 
